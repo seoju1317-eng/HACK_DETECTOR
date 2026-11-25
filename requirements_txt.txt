@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+opencv-python-headless
+yt-dlp[default]
+anthropic
+rapidocr-onnxruntime
+onnxruntime
+pyclipper
+shapely
+pyyaml
+pillow
+six
